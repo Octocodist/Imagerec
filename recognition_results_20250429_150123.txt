@@ -1,0 +1,85 @@
+CARD RECOGNITION RESULTS
+Generated on: 2025-04-29 15:01:23
+
+Total images processed: 19
+Successfully recognized: 19 (100.0%)
+Not recognized: 0 (0.0%)
+Failed requests: 0 (0.0%)
+
+DETAILS:
+
+Image: 3ed-32-purelace.png
+Status: recognized
+Response: {"error":"Unauthorized"}
+
+Image: bng-108-satyr-firedancer.png
+Status: recognized
+Response: {"error":"Unauthorized"}
+
+Image: celestial_enforcer.jpeg
+Status: recognized
+Response: {"error":"Unauthorized"}
+
+Image: Engelhafter_aufstieg.jpeg
+Status: recognized
+Response: {"error":"Unauthorized"}
+
+Image: gale_swooper.jpeg
+Status: recognized
+Response: {"error":"Unauthorized"}
+
+Image: himmlische_vollstreckerin.jpeg
+Status: recognized
+Response: {"error":"Unauthorized"}
+
+Image: kagha_shadow_archdruid.jpeg
+Status: recognized
+Response: {"error":"Unauthorized"}
+
+Image: Myth_realized.jpeg
+Status: recognized
+Response: {"error":"Unauthorized"}
+
+Image: naya_hushblade.jpeg
+Status: recognized
+Response: {"error":"Unauthorized"}
+
+Image: potion_of_healing.jpeg
+Status: recognized
+Response: {"error":"Unauthorized"}
+
+Image: punishing_fire.jpeg
+Status: recognized
+Response: {"error":"Unauthorized"}
+
+Image: Sample_1.png
+Status: recognized
+Response: {"error":"Unauthorized"}
+
+Image: Sample_2.png
+Status: recognized
+Response: {"error":"Unauthorized"}
+
+Image: Sample_3.png
+Status: recognized
+Response: {"error":"Unauthorized"}
+
+Image: Siege_striker_foil.jpeg
+Status: recognized
+Response: {"error":"Unauthorized"}
+
+Image: spectrum_sentinel.jpeg
+Status: recognized
+Response: {"error":"Unauthorized"}
+
+Image: staunch_shield_mate_foil.jpeg
+Status: recognized
+Response: {"error":"Unauthorized"}
+
+Image: streitross_der_morgendämmerung.jpeg
+Status: recognized
+Response: {"error":"Unauthorized"}
+
+Image: tocasias_onluet.jpeg
+Status: recognized
+Response: {"error":"Unauthorized"}
